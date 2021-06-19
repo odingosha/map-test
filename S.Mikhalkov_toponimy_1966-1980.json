@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b30000",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": " А что у вас?, 1974"
@@ -20,8 +20,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b30000",
-        "stroke-width": 3,
+        "stroke": "#ff0080",
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "label": " А что у вас?, 1974"
       },
@@ -58,8 +58,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b30000",
-        "stroke-width": 3,
+        "stroke": "#ff0080",
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "label": " А что у вас?, 1974"
       },
@@ -87,7 +87,7 @@
         "stroke": "#6b6b6b",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#00ff33",
+        "fill": "#ff0080",
         "fill-opacity": 0.5,
         "label": "Всадник, 1972"
       },
@@ -330,7 +330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff42ef",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Мой друг, 1978"
@@ -346,7 +346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff42ef",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Мой друг, 1978"
@@ -362,7 +362,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff42ef",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Мой друг, 1978"
@@ -381,7 +381,7 @@
         "stroke": "#6b6b6b",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff42ef",
+        "fill": "#ff0080",
         "fill-opacity": 0.5,
         "label": "Мой друг, 1978"
       },
@@ -631,7 +631,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff42ef",
+        "fill": "#ff0080",
         "fill-opacity": 0.5,
         "label": "Мой друг, 1978"
       },
@@ -894,7 +894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff37ef",
+        "stroke": "#ff0080",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "label": "Мой друг, 1978"
@@ -1112,7 +1112,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff37ef",
+        "stroke": "#ff0080",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "label": "Мой друг, 1978"
@@ -1357,7 +1357,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#ff37ef",
+        "fill": "#ff0080",
         "fill-opacity": 0.5,
         "label": "Мой друг, 1978"
       },
@@ -1464,7 +1464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffa8a8",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Телефон, 1973"
@@ -1480,7 +1480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#bd3900",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Чемодан, 1972"
@@ -1515,7 +1515,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#b74e4e",
+        "fill": "#ff0080",
         "fill-opacity": 0.5,
         "label": "Школа, 1974"
       },
@@ -1629,7 +1629,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#b74e4e",
+        "fill": "#ff0080",
         "fill-opacity": 0.5,
         "label": "Школа, 1974"
       },
@@ -1768,7 +1768,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b74e4e",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Школа, 1974"
@@ -1787,7 +1787,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#f4ff57",
+        "fill": "#ff0080",
         "fill-opacity": 0.5,
         "label": "Заяц во хмелю, 1966"
       },
@@ -2093,7 +2093,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#a600ff",
+        "fill": "#ff0080",
         "fill-opacity": 0.5,
         "label": "Незабудки голубые..., 1970"
       },
@@ -2320,7 +2320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b39b00",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Дядя Стёпа, 1968"
@@ -2336,7 +2336,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#b39b00",
+        "stroke": "#ff0080",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "label": "Дядя Стёпа, 1968"
@@ -2366,7 +2366,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b29b00",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Дядя Стёпа, 1968"
@@ -2382,7 +2382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b29b00",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Дядя Стёпа, 1968"
@@ -2398,7 +2398,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b29b00",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Дядя Стёпа, 1968"
@@ -2414,7 +2414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b29b00",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Дядя Стёпа, 1968"
@@ -2430,7 +2430,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b29b00",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Дядя Стёпа, 1968"
@@ -2446,7 +2446,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b29b00",
+        "marker-color": "#ff0080",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Дядя Стёпа, 1968"
@@ -2462,7 +2462,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#00abb8",
+        "stroke": "#ff0080",
         "stroke-width": 4,
         "stroke-opacity": 1,
         "label": "Канатоходцы, 1968"
